@@ -1,14 +1,15 @@
-This repo includes solutions of coding exercises for preliminary backend engineer evaluation.
-
-<H1>Backend Exercise Solutions</H1>
-
-**1. <a href = "https://github.com/sunaina-kapadne/preliminary.git"> Java Exercises </a>**
+<H1> This repo contains Java Exercises </H1>
+1. Java Exercises 
 
     1.1 Advanced Stream Operations & var
     
     1.2 Records & Pattern Matching
     
     1.3 Concurrency & CompletableFuture
+<BR>
+Below are the links which includes coding exercises solutions for preliminary backend engineer evaluation.
+
+<H1>Backend Exercise Solutions</H1>
 
 
 2.1 **<a href="https://github.com/sunaina-kapadne/restendpoint"> Quarkus Exercises ~ REST Endpoint & CDI </a> and,** 
